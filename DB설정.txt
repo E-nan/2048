@@ -1,0 +1,3 @@
+DB 이름 : JAVA
+DB 계정 : admin
+패스워드 : root
